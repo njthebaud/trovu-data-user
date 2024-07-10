@@ -10,6 +10,6 @@ examplekeyword 2:
   tags:
   - example
 
-13 0:
-  title: 1337x
-  url: https://1337x.to/
+13 1:
+  title: 1337x Search
+  url: https://1337x.to/search/{query}/1/
