@@ -17,3 +17,8 @@ examplekeyword 2:
 ytv 1:
   title: YouTube Search and Sort by View Count
   url: https://www.youtube.com/results?search_query=<query>&sp=CAMSAhAB
+
+ytt 1:
+  title: YouTube Search and Sort by Upload Date (Today)
+  url: https://www.youtube.com/results?search_query=<query>&sp=CAI%253D
+
