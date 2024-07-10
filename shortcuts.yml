@@ -13,3 +13,7 @@ examplekeyword 2:
 13 1:
   title: 1337x Search
   url: https://1337x.to/search/<query>/1/
+
+ytv 1:
+  title: YouTube Search and Sort by View Count
+  url: https://www.youtube.com/results?search_query=<query>&sp=CAMSAhAB
