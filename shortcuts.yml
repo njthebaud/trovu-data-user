@@ -25,3 +25,7 @@ ytt 1:
 rst 1:
   title: Raycast Store
   url: https://www.raycast.com/search?q=<query>
+
+mw 1:
+  title: Maker World
+  url: https://makerworld.com/en/search/models?keyword=<query>
