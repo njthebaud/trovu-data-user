@@ -29,3 +29,7 @@ rst 1:
 mw 1:
   title: Maker World
   url: https://makerworld.com/en/search/models?keyword=<query>
+
+as 1:
+  title: Apple Store
+  url: macappstore://search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?q=<query>
