@@ -14,6 +14,10 @@ examplekeyword 2:
   title: 1337x Search
   url: https://1337x.to/search/<query>/1/
 
+13td 1:
+  title: 1337x Search Time Descending
+  url: https://1337x.to/sort-search/<query>/time/desc/1/
+
 ytv 1:
   title: YouTube Search and Sort by View Count
   url: https://www.youtube.com/results?search_query=<query>&sp=CAMSAhAB
@@ -33,3 +37,43 @@ mw 1:
 as 1:
   title: Apple Store
   url: macappstore://search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?q=<query>
+
+fcr 1:
+  title: FileCR
+  url: https://filecr.com/search/?q=<query>&primary=macos
+
+aus 1:
+  title: Amazon US
+  url: https://www.amazon.com/s/?url=search-alias%3Daps&field-keywords=<query>
+
+ic 1:
+  title: Iconify
+  url: https://icon-sets.iconify.design/?query=<query>
+
+i8 1:
+  title: Icons8
+  url: https://icons8.com/icons/set/<query>--multi
+
+kf 1:
+  title: Keyboard Maestro Forum
+  url: https://forum.keyboardmaestro.com/search?q=<query>
+
+kw 1:
+  title: Keyboard Maestro Wiki
+  url: https://wiki.keyboardmaestro.com/Home_Page?do=search&id=<query>
+
+mt 1:
+  title: Mac Torrent
+  url: https://www.torrentmac.net/?s=<query>
+
+mb 1:
+  title: MacBed
+  url: https://www.macbed.com/?s=<query>
+
+pcf 1:
+  title: PopClip Forum
+  url: https://forum.popclip.app/search?q=<query>
+
+pb 1:
+  title: Printables
+  url: https://www.printables.com/search/models?q=<query>
