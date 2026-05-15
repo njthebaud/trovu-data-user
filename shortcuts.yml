@@ -146,4 +146,4 @@ dc 1:
 
 rgg 1:
 	title: Reddit via Google
-	url: https://www.google.com/search?q=<query>%20site:reddit.com
+	url: https://www.google.com/search?ie=utf-8&q=<query>%20site%3Areddit.com
