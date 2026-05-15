@@ -127,3 +127,19 @@ kw 1:
 p 1:
   title: Perplexity AI
   url: https://perplexity.ai/?q=<query>
+
+# Coffee
+
+cf 0:
+	title: Cafune Home
+	url: https://cafune.ca
+cf 1:
+	title: Cafune Search
+	url: https://cafune.ca/search?q=<query>
+
+dc 0:
+	title: De Mello Coffee Home
+	url: https://hellodemello.com
+dc 1:
+	title: De Mello Coffee Search
+	url: https://hellodemello.com/search?options%5Bprefix%5D=last&q=<query>
