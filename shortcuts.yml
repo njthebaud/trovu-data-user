@@ -110,6 +110,6 @@ kat 1:
   title: Kickass Torrent
   url: https://kickass.torrentbay.st/search/?q=<query>
 
-rg 1:
+rgg 1:
   title: Reddit via Google
   url: https://www.google.com/search?hl=<$language>&sitesearch=reddit.com&q=<query>
