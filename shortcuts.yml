@@ -143,3 +143,7 @@ dc 0:
 dc 1:
 	title: De Mello Coffee Search
 	url: https://hellodemello.com/search?options%5Bprefix%5D=last&q=<query>
+
+rg 1:
+	title: Reddit via Google
+	url: https://www.google.com/search?q=<query>%20site:reddit.com
