@@ -57,9 +57,17 @@ dm 1:
   title: Dailymotion
   url: https://www.dailymotion.com/search/<query>
 
+# Store
+
 rst 1:
   title: Raycast Store
   url: https://www.raycast.com/search?q=<query>
+
+as 1:
+  title: Apple Store
+  url: macappstore://search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?q=<query>
+
+# 3D Printing
 
 mw 0: 
   title: Maker World Home
@@ -68,13 +76,27 @@ mw 1:
   title: Maker World
   url: https://makerworld.com/en/search/models?keyword=<query>
 
-as 1:
-  title: Apple Store
-  url: macappstore://search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?q=<query>
+pb 0:
+  title: Printables Home
+  url: https://www.printables.com
+pb 1:
+  title: Printables
+  url: https://www.printables.com/search/models?q=<query>
+
+#Shop
 
 aus 1:
   title: Amazon US
   url: https://www.amazon.com/s/?url=search-alias%3Daps&field-keywords=<query>
+
+bst 0:
+  title: BambuLab Store
+  url: https://ca.store.bambulab.com
+bst 1:
+  title: BambuLab Store
+  url: https://ca.store.bambulab.com/search?q=<query>&type=product
+
+# Icons
 
 ic 1:
   title: Iconify
@@ -84,44 +106,24 @@ i8 1:
   title: Icons8
   url: https://icons8.com/icons/set/<query>--multi
 
+# Forum
+
 kf 1:
   title: Keyboard Maestro Forum
   url: https://forum.keyboardmaestro.com/search?q=<query>
-
-kw 1:
-  title: Keyboard Maestro Wiki
-  url: https://wiki.keyboardmaestro.com/Home_Page?do=search&id=<query>
 
 pcf 1:
   title: PopClip Forum
   url: https://forum.popclip.app/search?q=<query>
 
-pb 0:
-  title: Printables Home
-  url: https://www.printables.com
-pb 1:
-  title: Printables
-  url: https://www.printables.com/search/models?q=<query>
+# Wiki
+
+kw 1:
+  title: Keyboard Maestro Wiki
+  url: https://wiki.keyboardmaestro.com/Home_Page?do=search&id=<query>
+
+# AI
 
 p 1:
   title: Perplexity AI
   url: https://perplexity.ai/?q=<query>
-
-bst 0:
-  title: BambuLab Store
-  url: https://ca.store.bambulab.com
-bst 1:
-  title: BambuLab Store
-  url: https://ca.store.bambulab.com/search?q=<query>&type=product
-
-atl 1:
-  title: The Atlantic
-  url: https://www.theatlantic.com/search/?q=<query>
-
-wsj 1:
-  title: The Wall Street Journal
-  url: https://www.wsj.com/search?query=<query>&mod=searchresults_viewallresults
-
-wp 1:
-  title: The Washington Post
-  url: https://www.washingtonpost.com/search/?query=<query>
