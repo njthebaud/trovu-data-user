@@ -82,3 +82,6 @@ p 1:
   title: Perplexity AI
   url: https://perplexity.ai/?q=<query>
 
+bst 1:
+  title: BambuLab Store
+  url: https://ca.store.bambulab.com/search?q=<query>&type=product
