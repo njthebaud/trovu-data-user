@@ -9,7 +9,7 @@ examplekeyword 2:
   description: My custom shortcut with the keyword examplekeyword and 2 arguments.
   tags:
   - example
-
+13 0: https://1337x.to/
 13 1:
   title: 1337x Search
   url: https://1337x.to/search/<query>/1/
@@ -30,6 +30,7 @@ rst 1:
   title: Raycast Store
   url: https://www.raycast.com/search?q=<query>
 
+mw 0: https://makerworld.com/en
 mw 1:
   title: Maker World
   url: https://makerworld.com/en/search/models?keyword=<query>
