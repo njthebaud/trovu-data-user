@@ -13,7 +13,9 @@ examplekeyword 2:
 ts 0: 
   title: Trovu Shortcuts
   url: https://github.com/njthebaud/trovu-data-user/blob/master/shortcuts.yml
-  
+
+# Torrents
+
 13 0: 
   title: 1337x Home
   url: https://1337x.to/
@@ -25,6 +27,24 @@ ts 0:
   title: 1337x Search Time Descending
   url: https://1337x.to/sort-search/<query>/time/desc/1/
 
+mt 1:
+  title: Mac Torrent
+  url: https://www.torrentmac.net/?s=<query>
+
+mb 1:
+  title: MacBed
+  url: https://www.macbed.com/?s=<query>
+
+fcr 1:
+  title: FileCR
+  url: https://filecr.com/search/?q=<query>&primary=macos
+
+kat 1:
+  title: Kickass Torrent
+  url: https://kickass.torrentbay.st/search/?q=<query>
+
+# Video
+
 ytv 1:
   title: YouTube Search and Sort by View Count
   url: https://www.youtube.com/results?search_query=<query>&sp=CAMSAhAB
@@ -32,6 +52,10 @@ ytv 1:
 ytt 1:
   title: YouTube Search and Sort by Upload Date (Today)
   url: https://www.youtube.com/results?search_query=<query>&sp=EgQIAhAB
+
+dm 1:
+  title: Dailymotion
+  url: https://www.dailymotion.com/search/<query>
 
 rst 1:
   title: Raycast Store
@@ -47,10 +71,6 @@ mw 1:
 as 1:
   title: Apple Store
   url: macappstore://search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?q=<query>
-
-fcr 1:
-  title: FileCR
-  url: https://filecr.com/search/?q=<query>&primary=macos
 
 aus 1:
   title: Amazon US
@@ -71,14 +91,6 @@ kf 1:
 kw 1:
   title: Keyboard Maestro Wiki
   url: https://wiki.keyboardmaestro.com/Home_Page?do=search&id=<query>
-
-mt 1:
-  title: Mac Torrent
-  url: https://www.torrentmac.net/?s=<query>
-
-mb 1:
-  title: MacBed
-  url: https://www.macbed.com/?s=<query>
 
 pcf 1:
   title: PopClip Forum
@@ -113,7 +125,3 @@ wsj 1:
 wp 1:
   title: The Washington Post
   url: https://www.washingtonpost.com/search/?query=<query>
-
-kat 1:
-  title: Kickass Torrent
-  url: https://kickass.torrentbay.st/search/?q=<query>
