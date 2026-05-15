@@ -85,3 +85,23 @@ p 1:
 bst 1:
   title: BambuLab Store
   url: https://ca.store.bambulab.com/search?q=<query>&type=product
+
+atl 1:
+  title: The Atlantic
+  url: https://www.theatlantic.com/search/?q=<query>
+
+wsj 1:
+  title: The Wall Street Journal
+  url: https://www.wsj.com/search?query=<query>&mod=searchresults_viewallresults
+
+wp 1:
+  title: The Washington Post
+  url: https://www.washingtonpost.com/search/?query=<query>
+
+fc 1:
+  title: FactCheck.org
+  url: https://www.factcheck.org/search/#gsc.tab=0&gsc.q=<query>&gsc.sort=
+
+re 1:
+  title: Reuters
+  url: https://www.reuters.com/site-search/?query=<query>
