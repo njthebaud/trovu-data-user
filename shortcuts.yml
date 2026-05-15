@@ -111,13 +111,5 @@ kat 1:
   url: https://kickass.torrentbay.st/search/?q=<query>
 
 rg 1:
-  url: https://www.google.com/search?hl=<$language>&sitesearch=reddit.com&q=<query>
   title: Reddit via Google
-  tags:
-  - forum
-  - reddit
-  examples:
-  - arguments: berlin
-    description: Search for "berlin"
-  description: Reddit is a large discussion platform organized into topic-specific communities called subreddits.
-
+  url: https://www.google.com/search?hl=<$language>&sitesearch=reddit.com&q=<query>
