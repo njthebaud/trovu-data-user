@@ -77,3 +77,15 @@ pcf 1:
 pb 1:
   title: Printables
   url: https://www.printables.com/search/models?q=<query>
+
+p 1:
+  url: https://perplexity.ai/?q=<query>
+  title: Perplexity AI
+  tags:
+  - ai
+  - gpt
+  - openai
+  description: Go to the homepage
+  examples:
+  - arguments: What is the meaning of life?
+    description: Ask Perplexity AI about the meaning of life
