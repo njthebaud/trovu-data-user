@@ -105,3 +105,7 @@ fc 1:
 re 1:
   title: Reuters
   url: https://www.reuters.com/site-search/?query=<query>
+
+kat 1:
+  title: Kickass Torrent
+  url: https://kickass.torrentbay.st/search/?q=<query>
