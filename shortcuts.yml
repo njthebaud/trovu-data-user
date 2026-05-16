@@ -151,3 +151,12 @@ cf 0:
 cf 1:
   title: Cafune Search
   url: https://cafune.ca/search?q=<query>
+
+# News
+
+bbc 0:
+  title: BBC News Home
+  url: https://www.bbc.com
+bbc 1:
+  title: BBC News Search
+  url: https://www.bbc.com/search?q=<query>
