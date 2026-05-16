@@ -77,6 +77,12 @@ mw 0:
 mw 1:
   title: Maker World
   url: https://makerworld.com/en/search/models?keyword=<query>
+mwc 0:
+  title: Maker World Main Collection
+  url: https://makerworld.com/en/collections/9649979-default-collection
+mwoc 0:
+  title: Maker World OpenGrid Collection
+  url: https://makerworld.com/en/collections/15444214-opengrid
 
 pb 0:
   title: Printables Home
