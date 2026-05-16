@@ -14,6 +14,10 @@ ts 0:
   title: Trovu Shortcuts
   url: https://github.com/njthebaud/trovu-data-user/blob/master/shortcuts.yml
 
+rg 1:
+  title: Reddit via Google
+  url: https://www.google.com/search?ie=utf-8&q=<query>%20site%3Areddit.com
+
 # Torrents
 
 13 0: 
