@@ -97,6 +97,10 @@ aus 1:
   title: Amazon US
   url: https://www.amazon.com/s/?url=search-alias%3Daps&field-keywords=<query>
 
+awl 0:
+  title: Amazon Wish List
+  url: https://www.amazon.ca/hz/wishlist/ls/37ARXFB8LY83C?
+
 bst 0:
   title: BambuLab Store
   url: https://ca.store.bambulab.com
