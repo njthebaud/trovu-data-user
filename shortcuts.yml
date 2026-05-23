@@ -20,15 +20,15 @@ ts 0:
 
 rgd 1:
   title: Reddit via Google Sorted by Day
-  url: https://www.google.com/search?q=<query>:reddit.com&hl=en&udm=14&tbs=qdr:d
+  url: https://www.google.com/search?hl=<Slanguage>&q=<query>%20site:reddit.com=qdr:d
 
 rgw 1:
   title: Reddit via Google Sorted by Week
-  url: https://www.google.com/search?q=<query>:reddit.com&hl=en&udm=14&tbs=qdr:w
+  url: https://www.google.com/search?hl=<Slanguage>&q=<query>%20site:reddit.com=qdr:w
 
 rgm 1:
   title: Reddit via Google Sorted by Month
-  url: https://www.google.com/search?q=<query>:reddit.com&hl=en&udm=14&tbs=qdr:m
+  url: https://www.google.com/search?hl=<Slanguage>&q=<query>%20site:reddit.com=qdr:m
 
 # Torrents
 
