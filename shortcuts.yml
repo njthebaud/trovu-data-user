@@ -20,7 +20,7 @@ ts 0:
 
 rgd 1:
   title: Reddit via Google Sorted by Day
-  url: https://www.google.com/search?hl=<$language>&q=<query>%20site:reddit.com&tbs=qdr:d
+  url: https://www.google.com/search?hl=<$language>&q=<query>%20site:reddit.com&udm=14&tbs=qdr:d
 
 rgw 1:
   title: Reddit via Google Sorted by Week
