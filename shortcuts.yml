@@ -24,11 +24,11 @@ rgd 1:
 
 rgw 1:
   title: Reddit via Google Sorted by Week
-  url: https://www.google.com/search?hl=<$language>&q=<query>%20site:reddit.com&tbs=qdr:w
+  url: https://www.google.com/search?hl=<$language>&q=<query>%20site:reddit.com&udm=14&tbs=qdr:w
 
 rgm 1:
   title: Reddit via Google Sorted by Month
-  url: https://www.google.com/search?hl=<$language>&q=<query>%20site:reddit.com&tbs=qdr:m
+  url: https://www.google.com/search?hl=<$language>&q=<query>%20site:reddit.com&udm=14&tbs=qdr:m
 
 # Torrents
 
