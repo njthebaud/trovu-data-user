@@ -16,6 +16,20 @@ ts 0:
   title: Trovu Shortcuts
   url: https://github.com/njthebaud/trovu-data-user/blob/master/shortcuts.yml
 
+# Google
+
+rgd 1:
+  title: Reddit via Google Sorted by Day
+  url: https://www.google.com/search?q=<query>:reddit.com&hl=en&udm=14&tbs=qdr:d
+
+rgw 1:
+  title: Reddit via Google Sorted by Week
+  url: https://www.google.com/search?q=<query>:reddit.com&hl=en&udm=14&tbs=qdr:w
+
+rgm 1:
+  title: Reddit via Google Sorted by Month
+  url: https://www.google.com/search?q=<query>:reddit.com&hl=en&udm=14&tbs=qdr:m
+
 # Torrents
 
 13 0: 
