@@ -79,8 +79,11 @@ rst 1:
   title: Raycast Store
   url: https://www.raycast.com/search?q=<query>
 
-as 1:
+as 0:
   title: Apple Store
+  url: macappstore://
+as 1:
+  title: Apple Store Search
   url: macappstore://search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?q=<query>
 
 # 3D Printing
