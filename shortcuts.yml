@@ -110,8 +110,11 @@ pb 1:
 
 # Shop
 
-aus 1:
+aus 0:
   title: Amazon US
+  url: https://www.amazon.com
+aus 1:
+  title: Amazon US Search
   url: https://www.amazon.com/s/?url=search-alias%3Daps&field-keywords=<query>
 
 awl 0:
