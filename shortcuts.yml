@@ -177,17 +177,3 @@ cf 1:
   url: https://cafune.ca/search?q=<query>
 
 # News
-
-bbc 0:
-  title: BBC News Home
-  url: https://www.bbc.com
-bbc 1:
-  title: BBC News Search
-  url: https://www.bbc.com/search?q=<query>
-
-cnn 0:
-  title: CNN News
-  url: https://www.cnn.com
-cnn 1:
-  title: CNN News Search
-  url: https://www.cnn.com/search?q=<query>&from=0&size=10&page=1&sort=newest&types=all&section=
