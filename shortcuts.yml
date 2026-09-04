@@ -51,6 +51,9 @@ mb 1:
   title: MacBed
   url: https://www.macbed.com/?s=<query>
 
+fcr 0:
+  title: FileCR Home
+  url: https://filecr.com
 fcr 1:
   title: FileCR
   url: https://filecr.com/search/?q=<query>&primary=macos
