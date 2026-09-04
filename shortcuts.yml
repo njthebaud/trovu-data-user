@@ -53,7 +53,7 @@ mb 1:
 
 fcr 0:
   title: FileCR Home
-  url: https://filecr.com
+  url: https://filecr.com/mac/
 fcr 1:
   title: FileCR
   url: https://filecr.com/search/?q=<query>&primary=macos
